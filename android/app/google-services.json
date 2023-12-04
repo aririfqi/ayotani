@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206251435447",
+    "project_id": "ayotani-4a6c7",
+    "storage_bucket": "ayotani-4a6c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206251435447:android:9d1ad44703011db42eb432",
+        "android_client_info": {
+          "package_name": "com.tanijayanegeri.ayotani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-9SlKnG7uhURl8WTKG88_gtCbQEye-eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
